@@ -23,6 +23,5 @@ AI Reel Creator is a Flask web app that generates social media video reels from 
 5. Install FFmpeg and add to PATH
 6. Run: `python main.py` and `python generate_process.py`
 
-## Usage
-- Go to `/create` to upload images and text
-- View reels at `/gallery`
+##Video
+Video added at the Video folder showcasing the website(No audio as compressed)
