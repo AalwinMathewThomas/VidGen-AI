@@ -17,10 +17,11 @@ AI Reel Creator is a Flask web app that generates social media video reels from 
 
 ## Setup
 1. Clone: `git clone https://github.com/your-username/ai-reel-creator.git`
-2. Install: `pip install -r requirements.txt`
-3. Add ElevenLabs API key in `config.py`
-4. Install FFmpeg and add to PATH
-5. Run: `python main.py` and `python generate_process.py`
+2. Create a "user_uploads" file to store the pictures,Ai audio, Input.txt.
+3. Install: `pip install -r requirements.txt`
+4. Add ElevenLabs API key in `config.py`
+5. Install FFmpeg and add to PATH
+6. Run: `python main.py` and `python generate_process.py`
 
 ## Usage
 - Go to `/create` to upload images and text
